@@ -2,6 +2,7 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
+    font-family: 'Noto Sans', sans-serif;
 }
  
 
@@ -17,6 +18,7 @@ main {
     height: 750px;
     background-color: rgba(203, 177, 253, 0.669);
 }
+
 
 footer {
     border: 5px;
